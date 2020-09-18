@@ -68,3 +68,5 @@ end
 
 
 #bundle install --without production
+
+#git remote rm heroku:  para borrar heroku anteriores
